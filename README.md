@@ -1,6 +1,7 @@
 # Initial Outline
 
-* Materials 
+* Materials
+ * http://atxhackerspace.org/wiki/Laser_Cutter_Materials
 * Types of end products
 * Joining Methods
 * Converting images to cuts/engraves
