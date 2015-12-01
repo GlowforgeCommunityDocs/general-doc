@@ -6,6 +6,7 @@
  * [google search for "laser cut"] (https://www.google.com/search?q=laser+cut&client=ubuntu&hs=Chy&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiyx9jvt7fJAhVNx2MKHcmjDUoQ_AUICCgC&biw=1920&bih=9)
  * http://community.glowforge.com/c/laser-made
 * Joining Methods
+ * http://makezine.com/2012/04/13/cnc-panel-joinery-notebook/
 * Converting images to cuts/engraves
 * Finishing Techniques
 * Limitations
