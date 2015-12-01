@@ -7,6 +7,7 @@
  * http://community.glowforge.com/c/laser-made
 * Joining Methods
  * http://makezine.com/2012/04/13/cnc-panel-joinery-notebook/
+ * http://msraynsford.blogspot.co.uk/search/label/Joinery
 * Converting images to cuts/engraves
 * Finishing Techniques
 * Limitations
