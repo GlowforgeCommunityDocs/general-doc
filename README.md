@@ -16,7 +16,7 @@
   * Adobe Illustrator
   * GIMP
     * [Documentation] (https://docs.gimp.org/)
-  * nodepad.exe
+  * notepad.exe
 * List of resource locations (models, files, materials, parts)
 * Business considerations (Breakdown of cost to run laser)
 * Operating a laser cutter
