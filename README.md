@@ -1,5 +1,13 @@
 # Initial Outline
-
+* Laser Science and practice
+ * Laser physics
+ * Laser types
+ * Glowforge Specifications
+* Safety
+ * Output hazards
+ * Materials hazards
+ * Volatiles hazards
+ * Operational hazards
 * Materials
  * http://atxhackerspace.org/wiki/Laser_Cutter_Materials
 * What can I make?
